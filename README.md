@@ -1,9 +1,12 @@
 # blah9
 PubChem Improving Quality of LLMs (PIQL)
 
+
 Towards aligning PubChem content with improving LLM utility and quality
 
+
 Goal:
+
 Make concrete steps towards aligning PubChem biomedical data with improving LLM utility and quality with BLAH9 participants.  
 
 Approach: 
