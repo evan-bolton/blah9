@@ -1,9 +1,11 @@
 # blah9
+PubChem Improving Quality of LLMs (PIQL)
 Towards aligning PubChem content with improving LLM utility and quality
 
-Short Proposal Description:
+Goal:
+Make concrete steps towards aligning PubChem biomedical data with improving LLM utility and quality with BLAH9 participants.  
 
-Make concrete steps towards aligning PubChem biomedical data with improving LLM utility and quality with BLAH9 participants.  By doing the following: 
+Approach: 
 1. Align PubChem evidence content with PubAnnotation annotation data
 2. Survey attendees on their LLM/ML/AI use cases and needs/desires to use curated content and knowledge graphs to prevent hallucinations and improve LLM utility/quality
 3. Considering use of LLMs for scientific queries in PubChem  (transforming natural language questions into PubChem queries)
